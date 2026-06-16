@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import Navbar from '@/components/Navbar.vue';
-import HeroBanner from "@/components/HeroBanner.vue";
-import SidebarFilters from "@/components/SidebarFilters.vue";
-import ProductGrid from "@/components/ProductGrid.vue";
-import ServicesSection from "@/components/ServicesSection.vue";
-import Footer from "@/components/Footer.vue";
+import Navbar from '@/components/Main/Navbar.vue';
+import HeroBanner from "@/components/Main/HeroBanner.vue";
+import SidebarFilters from "@/components/Main/SidebarFilters.vue";
+import ProductGrid from "@/components/Main/ProductGrid.vue";
+import ServicesSection from "@/components/Main/ServicesSection.vue";
+import Footer from "@/components/Main/Footer.vue";
 </script>
 
 <template>
